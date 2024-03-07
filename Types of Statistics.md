@@ -8,6 +8,11 @@ Statistics can be broadly categorized into two main types:
 - It provides simple numerical summaries and visualizations that help in understanding the data.
 - It do not involve making inferences or generalizations beyond the data at hand.
 
+Descriptive statistics can be categorized into three main types based on the number of variables being analyzed: 
+  1. Univariate   : focuses on analyzing and summarizing the characteristics of a single variable at a time.
+  2. Bivariate    : involves analyzing the relationship between two variables simultaneously.
+  3. Multivariate : involves analyzing the relationships among three or more variables simultaneously.
+
 ## Inferential Statistics:
 - Draws conclusions and makes predictions about populations based on sample data, using techniques like hypothesis testing, regression analysis, confidence intervals and analysis of variance (ANOVA).
 - Sampling techniques are the methods used to select a subset of individuals or observations from the larger population. These techniques ensure that the sample is representative of the population, allowing for accurate and reliable inferences to be made.
