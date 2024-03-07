@@ -35,6 +35,8 @@ To perform a simple random sample:
 
 In this example, every student in the university has an equal chance of being selected for the survey, and every possible combination of 100 students has an equal chance of being chosen. This ensures that the sample is representative of the entire student population, making the estimated average age more reliable and generalizable.
 
+[Perform Simple Random Sampling using pandas in Python](https://github.com/sateeshfrnd/Statistics/blob/master/notebooks/Simple%20Random%20Sampling.ipynb)
+
 ## 2. Stratified Sampling
 Stratified Sampling is a sampling technique where the population is divided into distinct subgroups or strata based on certain characteristics, and then random samples are drawn from each stratum in proportion to their size in the population. 
 
@@ -69,6 +71,8 @@ To perform stratified sampling:
 
 In this example, stratified sampling ensures that each department is represented in the sample proportionally to its size in the population. This allows us to make more accurate estimates of the average income across different departments, accounting for the variations in salary structures.
 
+[Perform Stratified sampling using pandas in Python](https://github.com/sateeshfrnd/Statistics/blob/master/notebooks/Stratified%20Sampling.ipynb)
+
 ## 3. Cluster Sampling
 Cluster sampling is a sampling technique where the population is divided into groups or clusters, and then a random sample of clusters is selected. All individuals within the chosen clusters are included in the sample. It is often used when it is impractical or too costly to sample individuals directly from the entire population.
 
@@ -76,11 +80,15 @@ Cluster sampling is a sampling technique where the population is divided into gr
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Cluster_sampling.PNG?raw=true" alt="Sublime's custom image"/>
 </p>
 
+[Perform Cluster sampling using pandas in Python](https://github.com/sateeshfrnd/Statistics/blob/master/notebooks/Cluster%20Sampling.ipynb)
+
 ## 4. Systematic Sampling
 Systematic sampling is a technique used to select a random sample from a larger population. It involves selecting every kth element from the population, where k is a fixed interval calculated based on the population size and desired sample size.
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Systematic_sampling.PNG?raw=true" alt="Sublime's custom image"/>
 </p>
+
+[Perform Systematic sampling using pandas in Python](https://github.com/sateeshfrnd/Statistics/blob/master/notebooks/Systematic%20Sampling.ipynb)
 
 Each sampling technique has its advantages and limitations, and the choice of technique depends on factors such as the research objectives, the nature of the population, resource constraints, and the desired level of precision and representativeness in the sample.
