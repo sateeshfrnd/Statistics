@@ -21,17 +21,17 @@ The scale of measurement refers to the level of measurement or the nature of the
    - The ordinal scale involves ordering or ranking data into categories that have a natural order.
    - While ordinal data have a defined order, the differences between categories may not be consistent or measurable.
    - Here are some examples of variables measured on an ordinal scale:
-      1. **Likert Scale**: A common example of ordinal data is responses on a Likert scale, where individuals are asked to rate their agreement or disagreement with a statement on a scale with ordered categories.
-         - Example: Responses to a survey question on a 5-point Likert scale ranging from "strongly disagree" to "strongly agree."
+      1. **Likert Scale**: A common example of ordinal data is responses on a Likert scale, where individuals are asked to rate their agreement or disagreement with a statement on a scale with ordered categories.   
+   Example: Responses to a survey question on a 5-point Likert scale ranging from "strongly disagree" to "strongly agree."
       
-      2. **Educational Level**: Educational level is often categorized into ordered categories based on the level of schooling completed.
-         - Example: Categories such as "high school diploma," "bachelor's degree," "master's degree," "doctorate degree" represent an ordinal scale where the level of education increases in a natural order.
+      2. **Educational Level**: Educational level is often categorized into ordered categories based on the level of schooling completed.   
+   Example: Categories such as "high school diploma," "bachelor's degree," "master's degree," "doctorate degree" represent an ordinal scale where the level of education increases in a natural order.
       
       3. **Socioeconomic Status (SES)**: Socioeconomic status is often measured using ordered categories that reflect an individual's social and economic standing.
-         - Example: Categories such as "low-income," "middle-income," "high-income" represent an ordinal scale where individuals are ranked based on their relative socioeconomic position.
+   Example: Categories such as "low-income," "middle-income," "high-income" represent an ordinal scale where individuals are ranked based on their relative socioeconomic position.
       
-      4. **Rankings**: Rankings assigned to individuals or objects represent ordinal data, where the order of ranking is meaningful but the differences between ranks may not be consistent.
-         - Example: Rankings in a competition (1st place, 2nd place, 3rd place) represent ordinal data where individuals are ordered based on their performance, but the difference between ranks may vary.
+      4. **Rankings**: Rankings assigned to individuals or objects represent ordinal data, where the order of ranking is meaningful but the differences between ranks may not be consistent.      
+      Example: Rankings in a competition (1st place, 2nd place, 3rd place) represent ordinal data where individuals are ordered based on their performance, but the difference between ranks may vary.
       
 *In summary, variables measured on an ordinal scale involve ordered categories where the ranking or ordering is meaningful, but the differences between categories may not be consistent or measurable.*
 
