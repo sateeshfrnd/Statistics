@@ -13,6 +13,8 @@ Descriptive statistics can be categorized into three main types based on the num
   2. Bivariate    : involves analyzing the relationship between two variables simultaneously.
   3. Multivariate : involves analyzing the relationships among three or more variables simultaneously.
 
+[Univariate, Bivariate, and Multivariate Analysis](https://github.com/sateeshfrnd/Statistics/blob/master/Univariate%20Bivariate%20and%20Multivariate%20Analysis.md)
+
 ## Inferential Statistics:
 - Draws conclusions and makes predictions about populations based on sample data, using techniques like hypothesis testing, regression analysis, confidence intervals and analysis of variance (ANOVA).
 - Sampling techniques are the methods used to select a subset of individuals or observations from the larger population. These techniques ensure that the sample is representative of the population, allowing for accurate and reliable inferences to be made.
