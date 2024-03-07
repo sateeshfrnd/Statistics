@@ -18,6 +18,7 @@ Descriptive statistics can be categorized into three main types based on the num
 ## Inferential Statistics:
 - Draws conclusions and makes predictions about populations based on sample data, using techniques like hypothesis testing, regression analysis, confidence intervals and analysis of variance (ANOVA).
 - Sampling techniques are the methods used to select a subset of individuals or observations from the larger population. These techniques ensure that the sample is representative of the population, allowing for accurate and reliable inferences to be made.
-  
+
+*Z-test, t-test, F-test, and ANOVA (Analysis of Variance)* are statistical tests used for hypothesis testing and comparing means or variances in datasets. 
 
 These two types of statistics serve different purposes but are often used together in the process of data analysis. Descriptive statistics provide insights into the characteristics of the data, while inferential statistics enable us to make inferences and draw conclusions about populations based on sample data. Both are essential components of statistical analysis in various fields such as science, business, economics, and social sciences.
