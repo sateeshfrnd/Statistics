@@ -6,5 +6,5 @@ Descriptive statistics provide a clear and concise summary of the dataset, allow
 
 Key aspects of Descriptive Statistics
 1. Measures of Central Tendency
-2. Measures of Dispersion
+2. Measures of Spread Dispersion
 3. Measures of Symmetricity
