@@ -38,7 +38,19 @@ Some key probability principles include:
 
       P(H) = 1 - P(T)  ==> Rule of Subtraction.
       ```
-- **Complement Rule**
-- **General Addition Rule**
+- **Complement Rule:** The complement of an event A represents all outcomes in the sample space that are not in event A.
+  The probability of the complement of an event is
+
+  ![image](https://github.com/sateeshfrnd/Statistics/assets/8160366/4a69c6b5-c613-445e-9dda-4f9f2ffdeaf0)
+
+- **General Addition Rule:**
+   - The addition rule states that the probability of the union of two events A and B is equal to the sum of their individual probabilities minus the probability of their intersection.
+
+     ![image](https://github.com/sateeshfrnd/Statistics/assets/8160366/475c9c96-7e78-4692-baa2-c5f389b4d7de)
+
+   - In case of of the disjoin events (never occur together)
+
+     ![image](https://github.com/sateeshfrnd/Statistics/assets/8160366/01eeb282-d266-464c-8b5b-75807258c48b)
+
 - **General Multiplication Rule**
 - **Conditional Rule**
