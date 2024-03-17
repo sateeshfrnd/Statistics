@@ -33,5 +33,7 @@ Key Characteristics of the Normal Distribution:
     - About 68% of the data falls within one standard deviation (σ) of the mean (μ).
     - About 95% falls within two standard deviations (2σ) of the mean.
     - About 99.7% falls within three standard deviations (3σ) of the mean.
+    
+    And it provides a visual and intuitive understanding of how data is distributed around the mean in a normal distribution.
 
 Due to its mathematical properties and its ability to model many natural phenomena. It is often used in *statistical inference like identify outlier, hypothesis testing, and modeling real-world data*.
