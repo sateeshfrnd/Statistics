@@ -46,8 +46,19 @@ It's important to note that these transformations can be data-dependent and may 
 - Standardizing the data by subtracting the mean and dividing by the standard deviation transforms the data into a standard normal distribution with a mean of 0 and a standard deviation of 1.
 - Useful for comparing variables with different units and for algorithms that rely on distance measures.
 
-### Min-Max Scaling
-Scales data to a fixed range, typically between 0 and 1 or -1 and 1. Useful for algorithms that require input features to be within a specific range.
+### Normalization (Min-Max Scaling)
+- Min-max scaling, also known as normalization, is a data preprocessing technique used to rescale numerical features to a specific range, typically between 0 and 1.
+- Useful for algorithms that require input features to be within a specific range.
 
+![image](https://github.com/sateeshfrnd/Statistics/assets/8160366/63db40d1-c39c-41e3-a01b-b1ad03f3d381)
 
+where
+- x: The original value of the feature.
+- min: The minimum value of the feature in the dataset.
+- max: The maximum value of the feature in the dataset.
+- x scaled : The scaled value of x within the range [0, 1].
+
+**Note: If outlier then go with Standardization otherwise Normalization.**
+  
+## In Summary
 These techniques are commonly used in data preprocessing, exploratory data analysis, and statistical modeling to prepare data for analysis, address issues such as unequal spread or variability of residuals (the differences between observed and predicted values) and non-normality, and improve the performance of statistical models. Choosing the appropriate technique depends on the characteristics of the data and the goals of the analysis.
