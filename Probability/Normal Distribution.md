@@ -20,6 +20,7 @@ where:
   <img src="https://github.com/sateeshfrnd/Statistics/assets/8160366/56ca35ef-e6b5-4a39-8939-157a5c49227a" alt="Normal Distribution image"/>
 </p>
 
+**Mean (μ) and Standard Deviation (σ) of Noraml Distribution can be anything.**
 
 ## Characteristics 
 Key Characteristics of the Normal Distribution:
