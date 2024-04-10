@@ -69,13 +69,16 @@ In summary, a moderately skewed distribution indicates that there is some degree
 ### Highly Skewed
 A highly skewed distribution is one where there is pronounced asymmetry, with a long tail extending prominently in one direction. This skewness indicates a significant imbalance in the distribution of values.
 
-**(<-1 & > 1)**
+**(-1< & > +1)**
 
 1. **Positive Skewness (Right-Skewed)**: In a highly right-skewed distribution, the majority of data points are concentrated on the left side of the distribution, with a long tail extending to the right. This indicates the presence of numerous high values or outliers that pull the mean towards the right. Examples include income distribution in a population where a small percentage of individuals earn exceptionally high incomes compared to the rest.
 
 2. **Negative Skewness (Left-Skewed)**: In a highly left-skewed distribution, the bulk of data points are concentrated on the right side of the distribution, with a long tail extending to the left. This suggests the existence of numerous low values or outliers that pull the mean towards the left. For instance, the distribution of prices for luxury goods might be highly left-skewed, with most prices being high but a few outliers sold at significantly lower prices.
 
 In summary, a highly skewed distribution indicates a significant imbalance in the data, with a long tail stretching prominently in one direction, either to the right or left. This skewness can have important implications for data analysis and interpretation.
+
+## Visualizations 
+Visualizations such as **histograms, box plots, density plots, QQ plots, and violin plots** are effective tools for quickly identifying skewness and distributional characteristics in a dataset. These visualizations provide insights into the shape, symmetry, and skewness of the data, guiding analytical decisions and interpretations.
 
 ## Summary
 Understanding the concepts of skewness and the different types of distributions (symmetric, positively skewed, negatively skewed) is essential for several reasons:
