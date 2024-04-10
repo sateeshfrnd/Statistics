@@ -80,6 +80,14 @@ In summary, a highly skewed distribution indicates a significant imbalance in th
 ## Visualizations 
 Visualizations such as **histograms, box plots, density plots, QQ plots, and violin plots** are effective tools for quickly identifying skewness and distributional characteristics in a dataset. These visualizations provide insights into the shape, symmetry, and skewness of the data, guiding analytical decisions and interpretations.
 
+## Handle Skewness
+Handling data skewness is an important step in data preprocessing to ensure accurate analysis and modeling. 
+
+Here are some common approaches to handle data skewness:
+- **Transformations**: Apply mathematical transformations to the skewed variables to make their distributions more symmetrical. Common transformations include logarithmic, square root, and reciprocal transformations. These transformations can help reduce the impact of extreme values and make the data more suitable for parametric analysis.
+- **Box-Cox Transformation**: The Box-Cox transformation is a family of power transformations that can stabilize the variance and make the data distribution more symmetric. It involves finding the optimal transformation parameter (lambda) that maximizes the log-likelihood of the data.
+- **Treat the Outliers**:Replace extreme values (outliers) with less extreme values to mitigate their influence on the distribution. Winsorization involves setting the extreme values to a specified percentile of the data distribution, such as the 95th or 99th percentile.
+
 ## Summary
 Understanding the concepts of skewness and the different types of distributions (symmetric, positively skewed, negatively skewed) is essential for several reasons:
 
