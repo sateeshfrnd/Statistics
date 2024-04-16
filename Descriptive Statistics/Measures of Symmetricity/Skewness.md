@@ -69,7 +69,7 @@ In summary, a moderately skewed distribution indicates that there is some degree
 ### Highly Skewed
 A highly skewed distribution is one where there is pronounced asymmetry, with a long tail extending prominently in one direction. This skewness indicates a significant imbalance in the distribution of values.
 
-**(-1< & > +1)**
+**(<-1 & >+1)**
 
 1. **Positive Skewness (Right-Skewed)**: In a highly right-skewed distribution, the majority of data points are concentrated on the left side of the distribution, with a long tail extending to the right. This indicates the presence of numerous high values or outliers that pull the mean towards the right. Examples include income distribution in a population where a small percentage of individuals earn exceptionally high incomes compared to the rest.
 
