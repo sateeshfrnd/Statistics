@@ -53,4 +53,32 @@ Some key probability principles include:
      ![image](https://github.com/sateeshfrnd/Statistics/assets/8160366/01eeb282-d266-464c-8b5b-75807258c48b)
 
 - **General Multiplication Rule**
+     -  The multiplication rule states that the probability of the intersection of two events A and B is equal to the product of their individual probabilities given that they are independent events.
+
+        ![image](https://github.com/sateeshfrnd/Statistics/assets/8160366/a526c044-2e22-4d1c-993c-cd35fba97c14)
+
+        - P(A) is the probability of event A occurring.
+        - P(B∣A) is the conditional probability of event B occurring given that event A has already occurred.
+
+   - In the case of independent events, the General Multiplication Rule simplifies because the occurrence of one event does not affect the probability of the other event occurring.
+   - For two independent events A and B, the probability of both events occurring together (the intersection of A and B) is simply the product of their individual probabilities.
+
+        ![image](https://github.com/sateeshfrnd/Statistics/assets/8160366/23ae3aaf-24a7-4343-a4c0-7f88b9039e74)
+
+     This is because the conditional probability P(B∣A) reduces to the marginal probability P(B) when the events are independent.
+      
 - **Conditional Rule**
+    - The probability of an event given that another event has occurred.
+    - Probability of an event A occurring given that event B has occurred is equal to the probability of both events A and B occurring together, divided by the probability of event B occurring:
+ 
+      ![image](https://github.com/sateeshfrnd/Statistics/assets/8160366/3fd20711-0454-48d3-9c9c-234d4dc98467)
+
+## Problems
+**There are 30 students all together in that 16 Students studying French and 21 students studying Spanish. Find the probability of Students studying French, Spanish, Only French, Only Spanish, French or Spanish, French and Spanish**
+```
+Probability of students studying French P(F) = 16/30 = 8/15 = 0.5
+Probability of students studying Spanish P(S) = 21/30 = 0.7
+Probability of students studying French or Spanish P(F or S) = P(F) + P(S) = 0.5 + 0.7 = 1.2 (Note: This exceeds 1 because it assumes no students study both French and Spanish.)
+Probability of students studying both French and Spanish P(F and S): P(F) + P(S) - P(F or S) =  0 (assuming no students study both)
+
+```
