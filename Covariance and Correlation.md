@@ -81,3 +81,27 @@ Note: Covariance has no magnitude/dimention and depends on the units of the vari
 - One of the main disadvantages of covariance is that it is not easily interpretable or comparable across different datasets or variables with different scales.
 - Covariance provides information about the direction of the relationship between two variables, it does not provide a standardized measure of the strength of the relationship.
 - That's why correlation, which standardizes the relationship between two variables, is often used for comparison purposes.
+
+## Correlation
+Correlation measures the strength and direction of the linear relationship between two variables.
+
+Formula for correlation 
+
+![image](https://github.com/sateeshfrnd/Statistics/assets/8160366/990fb7f9-3b0e-46fe-b47a-606fed45b6cf)
+
+where ![image](https://github.com/sateeshfrnd/Statistics/assets/8160366/6233ee38-6887-46b7-b219-0e043fb64550) and ![image](https://github.com/sateeshfrnd/Statistics/assets/8160366/d70ae2a8-3884-44fd-b238-f97ee0564e3f) are the standard deviations of X and Y, respectively.
+
+It ranges from -1 to 1, where:
+- 1 indicates a perfect positive linear relationship,
+- −1 indicates a perfect negative linear relationship, and
+- 0 indicates no linear relationship.
+
+Correlation also called as Pearson correlation coefficient (often denoted as r) **always measure of the linear relationship** between two variables. It quantifies the strength and direction of the linear association between two continuous variables. 
+
+The Pearson correlation coefficient ranges from -1 to 1, where:
+- r=1: Perfect positive linear correlation.
+- r=−1: Perfect negative linear correlation.
+- r=0: No linear correlation.
+
+*The Pearson correlation coefficient is commonly used in statistics and data analysis to determine the strength and direction of the relationship between variables. It assumes that the relationship between variables is linear and that the data follows a bivariate normal distribution.*
+
